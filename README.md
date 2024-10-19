@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Landon Gray!](https://thedayisntgray.github.io)
+### Hello I'm [Landon Gray](https://thedayisntgray.github.io)👋🏾,
 
 <br/>
 
@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Hi, I'm Landon Gray🙌, an AI leader and founder of **Identus Consulting**. With over a decade of development experience, I specialize in building **AI solutions** and **Ruby development**. 
+An AI leader and founder of **Identus Consulting**. With over a decade of development experience, I specialize in building **AI solutions** and **Ruby development**. 
 
 As a recognized thought leader and speaker at conferences like **Rails Conf** and **Blue Ridge Ruby**, I’m passionate about sharing insights on **AI** and helping companies leverage these technologies to drive innovation and achieve their business goals. My combination of technical expertise, business acumen, and high emotional intelligence allows me to craft solutions that provide competitive advantages for my clients.
 
