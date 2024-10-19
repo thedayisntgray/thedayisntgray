@@ -27,27 +27,6 @@ As a recognized thought leader and speaker at conferences like **Rails Conf** an
 - 💬 Regular speaker on AI, machine learning, and software development at industry conferences.
 - 📫 How to reach me: [Twitter](https://twitter.com/thedayisntgray) | [LinkedIn](https://www.linkedin.com/in/thedayisntgray/)
 
-**Notable Experience:**
-
-- **Identus Consulting**  
-  Founder & AI Engineer  
-  - Built AI solutions using **K-Means clustering** and **OpenAI**, improving recommendation accuracy and reducing spam for clients with over $100 million in revenue.
-  - Guided a startup as an advisor, offering expertise on **AI implementation** and **scalability** in the marketing sector.
-  - Planning & Scoping projects for **Healthcare** and **Private Equity** Firms.
-  - Managed months long software project to completion in the **Higher Education** space
-
-- **Test Double**  
-  Senior Software Consultant  
-  - Building Great Software for clients
-
-- **Pariveda Solutions**  
-  Consultant  
-  - Developed a vehicle estimation tool and integrated **KBB Instant Cash Offers**, reducing dealership transaction times by 40%.
-
-- **Pier 1 Imports**  
-  Software Engineer  
-  - Built a microservices that helped mitigate potential revenue loss by optimizing product classification and tariff management.
-
 **Education & Certifications:**
 
 - **Bachelor’s in Computer Science** – Abilene Christian University  
