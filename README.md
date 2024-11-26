@@ -16,10 +16,7 @@
 I'm an Applied AI engineer focused on bridging the gap between theoretical AI concepts and their practical, real-world applications. My approach is hands-on: I believe in understanding theory deeply, but only in service of building solutions that deliver tangible results.
 
 ### Background
-My foundation in software engineering provided invaluable experience creating products across diverse organizations. Seeking greater challenges, I transitioned to consulting, where I specialized in delivering software solutions that drove measurable business value.
-
-### GEN AI/ML Journey
-My AI journey began in 2016 with an audited AI course, accelerating significantly in 2022 when I enrolled in UT Austin's Post Graduate Program in Artificial Intelligence and Machine Learning. The program strengthened my ML fundamentals and led to speaking engagements at two conferences where I shared insights on AI/ML model training.
+My foundation in software engineering provided invaluable experience creating products across diverse organizations. Seeking greater challenges, I transitioned to consulting, where I specialized in delivering software solutions that drove measurable business value. My AI journey began in 2016 with an audited AI course, accelerating significantly in 2022 when I enrolled in UT Austin's Post Graduate Program in Artificial Intelligence and Machine Learning. The program strengthened my ML fundamentals and led to speaking engagements at two conferences where I shared insights on AI/ML model training.
 
 ### Current Focus
 - Developing robust, production-ready, testable AI applications with Evals
