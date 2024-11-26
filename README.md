@@ -28,6 +28,4 @@ My foundation in software engineering provided invaluable experience creating pr
 - Newsletter: [buttondown.com/landon.gray](https://buttondown.com/landon.gray)
 - Email: landon.gray@hey.com
 
-*Please leave as detailed a description as possible when reaching out to improve the odds of getting a response.*
-
 [TODO: - Pull block content into this page using github actions]: # 
