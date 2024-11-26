@@ -1,6 +1,4 @@
-### Hello I'm [Landon Gray](https://thedayisntgray.github.io)👋🏾,
-
-<br/>
+### Hello, I'm Landon Gray 👋🏾
 
 <a href="https://twitter.com/thedayisntgray">
 <img align="left" alt="Landon Gray | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,36 +13,24 @@
 <br />
 <br />
 
-An AI leader and founder of **Identus Consulting**. With over a decade of development experience, I specialize in building **AI solutions** and **Ruby development**. 
+I'm an Applied AI engineer focused on bridging the gap between theoretical AI concepts and their practical, real-world applications. My approach is hands-on: I believe in understanding theory deeply, but only in service of building solutions that deliver tangible results.
 
-As a recognized thought leader and speaker at conferences like **Rails Conf** and **Blue Ridge Ruby**, I’m passionate about sharing insights on **AI** and helping companies leverage these technologies to drive innovation and achieve their business goals. My combination of technical expertise, business acumen, and high emotional intelligence allows me to craft solutions that provide competitive advantages for my clients.
+### Background
+My foundation in software engineering provided invaluable experience creating products across diverse organizations. Seeking greater challenges, I transitioned to consulting, where I specialized in delivering software solutions that drove measurable business value.
 
-**Summary of Work:**
+### GEN AI/ML Journey
+My AI journey began in 2016 with an audited AI course, accelerating significantly in 2022 when I enrolled in UT Austin's Post Graduate Program in Artificial Intelligence and Machine Learning. The program strengthened my ML fundamentals and led to speaking engagements at two conferences where I shared insights on AI/ML model training.
 
-- 🔭 Founder of **Identus Consulting**, where I build AI-driven solutions and offer strategic AI consulting to various industries.
-- 🌱 Expertise in **AI Engineering**, **Software Development**, **Ruby** and **Generative AI**
-- 🧠 Over a decade of experience developing large-scale applications and tools across industries like retail, automotive, and SaaS.
-- 💬 Regular speaker on AI, machine learning, and software development at industry conferences.
-- 📫 How to reach me: [Twitter](https://twitter.com/thedayisntgray) | [LinkedIn](https://www.linkedin.com/in/thedayisntgray/)
+### Current Focus
+- Developing robust, production-ready, testable AI applications with Evals
+- Helping non-AI organizations adopt AI by integrating it with their existing infrastructure, with a focus on Ruby on Rails best practices
+- Creating AI solutions for personal productivity and practical applications
 
-**Education & Certifications:**
+### Connect With Me
+- Blog: [thedayisntgray.github.io](https://thedayisntgray.github.io/)
+- Newsletter: [buttondown.com/landon.gray](https://buttondown.com/landon.gray)
+- Email: landon.gray@hey.com
 
-- **Bachelor’s in Computer Science** – Abilene Christian University  
-  Dwight A. Caughfield Award for Computer Science
+*Please leave as detailed a description as possible when reaching out to improve the odds of getting a response.*
 
-- **LLM & Generative AI Certificate** – ActiveLoop  
-  Expertise in **LangChain**, **Generative AI**, and **RAG** for production environments.
-
-- **Post Graduate Program in AI & ML** – The University of Texas at Austin Online  
-  Focused on **machine learning** and **AI technologies**.
-
-**Skills:**
-
-- **Programming:** Ruby, Python, JavaScript, TypeScript, .NET  
-- **AI & ML:** Machine Learning, Generative AI, LangChain, RAG, Agents, Classical ML such as (K-Means Clustering, XGBoost, Random Forest)
-- **Cloud & DevOps:** AWS, Heroku, Cloud Migration, API Development  
-- **Data Engineering:** Tableau, Mode, Airflow, Data Management 
-- **Project Management:** Agile, Strategic AI Consulting, Risk Assessment
-- **Web Development:** Frontend (HTML, CSS, Sass), Backend
-
-Feel free to explore my GitHub and reach out if you’d like to collaborate on a project!
+[TODO: - Pull block content into this page using github actions]: # 
