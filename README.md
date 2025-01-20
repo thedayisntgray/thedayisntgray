@@ -13,9 +13,6 @@
 <br />
 <br />
 
-### Background
-My foundation in software engineering provided invaluable experience creating products across diverse organizations. Seeking greater challenges, I transitioned to consulting, where I specialized in delivering software solutions that drove measurable business value. My AI journey began in 2016 with an audited AI course, accelerating significantly in 2022 when I enrolled in UT Austin's Post Graduate Program in Artificial Intelligence and Machine Learning. The program strengthened my ML fundamentals and led to speaking engagements at two conferences where I shared insights on AI/ML model training.
-
 ### Current Focus
 - Developing robust, production-ready, testable AI applications with Evals
 - Helping non-AI organizations adopt AI by integrating it with their existing infrastructure, with a focus on Ruby on Rails best practices
