@@ -19,8 +19,8 @@
 - Creating AI solutions for personal productivity and practical applications
 
 ### Connect With Me
-- Blog: [thedayisntgray.github.io](https://thedayisntgray.github.io/)
-- Newsletter: [buttondown.com/landon.gray](https://buttondown.com/landon.gray)
+- Blog: [landonnotes.com](https://landonnotes.com))
+- Substack: [@landonnotes](https://substack.com/@landonnotes)
 - Email: landon.gray@hey.com
 
 [TODO: - Pull block content into this page using github actions]: # 
