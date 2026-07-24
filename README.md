@@ -19,7 +19,7 @@
 - Creating AI solutions for personal productivity and practical applications
 
 ### Connect With Me
-- Blog: [landonnotes.com](https://landonnotes.com))
+- Blog: [landonnotes.com](https://landonnotes.com)
 - Substack: [@landonnotes](https://substack.com/@landonnotes)
 - Email: landon.gray@hey.com
 
